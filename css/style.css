@@ -94,7 +94,8 @@ h1{
 .choose li{
     padding-right: 15px;
 }
-.tabs.nav.nav-tabs li a,
+.tabs.nav.nav-tabs li a
+.tabs li a,
 .choose li a{
     color: #6c7a19;
     font-size: 18px;
